@@ -175,7 +175,7 @@
 
 
 // var a=require("./mulu");
-var a=require("../js01");
+var a=require("./Js_ss");
 var r=15;
 // var as=new a();
 // console.log(as.setMj(r).toFixed(2),as.setZc(r).toFixed(2));
