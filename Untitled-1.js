@@ -174,7 +174,8 @@
 // },1000);
 
 
-var a=require("./Js_ss.js");
+// var a=require("./mulu");
+var a=require("mulu");
 var r=15;
 // var as=new a();
 // console.log(as.setMj(r).toFixed(2),as.setZc(r).toFixed(2));
